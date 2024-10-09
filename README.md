@@ -1,5 +1,3 @@
-# web-project-sprint3
-
 # Group 3 Deliverables    
 
 - Front-End Code: [repository](https://github.com/santten/BookGardenFE) 
