@@ -7,4 +7,4 @@
   - Sprint Review    
   - Sprint Retrospective   
 - Team Contributions    
-- Presentation    
+- Presentation: [Slides](https://github.com/JY1Z/web-project-sprint3/blob/main/Sprint3.pdf)    
